@@ -119,7 +119,7 @@ The Excel dashboard integrates visuals like charts, graphs, and KPIs for quick i
 
 ### 📊 Data Snapshot
 
-![Data Table](https://github.com/YourUsername/YourRepo/blob/main/DATA.png)
+![Data Table](https://github.com/AkinsDiaries/Oil-Projects/blob/main/Groundnut%20Oil%20Dashboard/oil-2.png)
 
 > _Replace the image links above with your actual dashboard and table screenshots._
 
